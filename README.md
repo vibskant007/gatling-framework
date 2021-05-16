@@ -1,3 +1,3 @@
 # gatling-framework
-- Performance Framework using gatling
+- Performance Load Framework using gatling scala!
 - Create simulation and run on intellij!
